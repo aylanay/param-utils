@@ -1,0 +1,10 @@
+{
+  "name": "@ayalanay/param-utils",
+  "version": "0.0.1",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "keywords": [],
+  "author": "Aslkhon Khoshimkhujaev",
+  "license": "ISC",
+  "description": "A simple utility to parse and validate custom query parameters in aylanay"
+}
